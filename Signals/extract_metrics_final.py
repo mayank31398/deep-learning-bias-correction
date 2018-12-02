@@ -7,7 +7,7 @@ import numpy as np
 import pandas as pd
 from scipy.signal import find_peaks, medfilt, savgol_filter, filtfilt, butter
 
-from peakdetect import peakdetect, peakdetect_parabola, peakdetect_spline\
+from peakdetect import peakdetect, peakdetect_parabola, peakdetect_spline
 
 
 
